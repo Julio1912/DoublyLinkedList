@@ -1,0 +1,4 @@
+c:\users\lida\documents\visual studio 2010\Projects\DoublyLinkedList\DoublyLinkedList\bin\Debug\DoublyLinkedList.exe
+c:\users\lida\documents\visual studio 2010\Projects\DoublyLinkedList\DoublyLinkedList\bin\Debug\DoublyLinkedList.pdb
+c:\users\lida\documents\visual studio 2010\Projects\DoublyLinkedList\DoublyLinkedList\obj\x86\Debug\DoublyLinkedList.exe
+c:\users\lida\documents\visual studio 2010\Projects\DoublyLinkedList\DoublyLinkedList\obj\x86\Debug\DoublyLinkedList.pdb
